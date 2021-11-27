@@ -26,12 +26,12 @@ nk:
 
 #  aliyun:
 #    access-key-id: LTAI4G6YUdTBx8b9C8uR3gTU
-#    access-key-secret: zeqaRsOAOkwwTLK8E2QyR1aEcj6RAL
+#    access-key-secret: 
 #    oss:
 #      bucket: tfms
 #  huawei:
 #    access-key-id: IBWKXXXUIYGWN5DCPL58
-#    access-key-secret: CdDHj5aM2w8kLT89NsLAjxGRzY9b7C0ZduzGvimf
+#    access-key-secret: 
 #    obs:
 #      bucket: tfms
 
